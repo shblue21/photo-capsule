@@ -1,0 +1,15 @@
+{
+  "version": "v1",
+  "hooks": [
+    {
+      "name": "Photo Capsule domain tests",
+      "trigger": "PostFileSave",
+      "matcher": "(?:^|/)(?:src/(?:routes|middleware|utils)/.*|src/(?:db|storage)|tests/.*)\\.ts$",
+      "action": {
+        "type": "command",
+        "command": "node scripts/domain-tests-hook.cjs"
+      },
+      "timeout": 60
+    }
+  ]
+}

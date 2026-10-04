@@ -1,0 +1,15 @@
+(node:55662) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS tests/uploadIntegrity.test.ts
+PASS tests/ide.properties.test.ts
+PASS tests/malformedImage.test.ts
+PASS tests/unauthorizedUpload.test.ts
+PASS tests/revealBoundary.test.ts
+PASS tests/crossAlbum.test.ts
+
+Test Suites: 6 passed, 6 total
+Tests:       49 passed, 49 total
+Snapshots:   0 total
+Time:        1.469 s, estimated 2 s
+Ran all test suites.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?

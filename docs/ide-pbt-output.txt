@@ -1,0 +1,25 @@
+ts-jest[ts-jest-transformer] (WARN) Define `ts-jest` config under `globals` is deprecated. Please do
+transform: {
+    <transform_regex>: ['ts-jest', { /* ts-jest config goes here in Jest */ }],
+},
+PASS tests/ide.properties.test.ts
+  isRevealed — property-based tests
+    ✓ P-IR-1 boundary: isRevealed(t, t) is true for any finite integer t (4 ms)
+    ✓ P-IR-2 boundary: isRevealed(t, t-1) is false for any finite integer t (2 ms)
+    ✓ P-IR-3 monotonicity: if isRevealed(t, now) then isRevealed(t, now+delta) for delta >= 0 (2 ms)
+    ✓ P-IR-4 invalid numbers: NaN or ±Infinity in either argument → false (2 ms)
+  validateAlbumInput — property-based tests
+    ✓ P-VA-1 valid inputs: finite revealAt in (now, now+366d] with valid title never throws (22 ms)
+    ✓ P-VA-2 past revealAt: revealAt <= now always throws (92 ms)
+    ✓ P-VA-3 revealAt beyond 366 days: always throws (66 ms)
+    ✓ P-VA-4 whitespace-only title: always throws (34 ms)
+    ✓ P-VA-5 title too long (trimmed length > 100): always throws (40 ms)
+    ✓ P-VA-6 returned title equals title.trim() (13 ms)
+    ✓ P-VA-7 description > 500 chars: always throws (61 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       11 passed, 11 total
+Snapshots:   0 total
+Time:        0.938 s, estimated 2 s
+Ran all test suites matching /tests\/ide.properties.test.ts/i.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?

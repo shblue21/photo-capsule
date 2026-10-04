@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "photo-capsule-review",
+  "version": "1.0.0",
+  "description": "Review private event-photo apps for album boundaries and scheduled reveal behavior.",
+  "author": {
+    "name": "Photo Capsule contributors"
+  },
+  "keywords": [
+    "photo-capsule-review",
+    "photo privacy",
+    "scheduled reveal"
+  ]
+}

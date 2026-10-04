@@ -1,0 +1,12 @@
+const fs = require('node:fs');
+const path = require('node:path');
+const { spawnSync } = require('node:child_process');
+const root = path.resolve(__dirname, '..');
+const result = spawnSync(process.execPath, [path.join(root, 'node_modules/jest/bin/jest.js'), '--runInBand', '--forceExit'], { cwd: root, encoding: 'utf8', timeout: 50000, env: {...process.env, CI:'true'} });
+const dir = path.join(root, 'data/evidence');
+fs.mkdirSync(dir, { recursive: true });
+const log = (result.stdout || '') + (result.stderr || '') + (result.error ? String(result.error) : '');
+fs.writeFileSync(path.join(dir, 'domain-tests-hook.txt'), log);
+fs.appendFileSync(path.join(dir, 'domain-tests-hook.jsonl'), JSON.stringify({ at:new Date().toISOString(), event:'PostFileSave domain tests', exitCode:result.status, error:result.error?.message }) + '\n');
+process.stdout.write(log);
+process.exit(result.status ?? 1);

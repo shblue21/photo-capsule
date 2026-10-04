@@ -1,0 +1,15 @@
+{
+  "version": "v1",
+  "hooks": [
+    {
+      "name": "Photo Capsule typecheck",
+      "trigger": "PostFileSave",
+      "matcher": "\\.ts$",
+      "action": {
+        "type": "command",
+        "command": "node scripts/typecheck-hook.cjs"
+      },
+      "timeout": 60
+    }
+  ]
+}

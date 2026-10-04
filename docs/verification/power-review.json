@@ -1,0 +1,15 @@
+{
+  "at": "2026-10-02T16:30:21.915Z",
+  "checks": [
+    {
+      "name": "typecheck",
+      "exitCode": 0
+    },
+    {
+      "name": "tests",
+      "exitCode": 0
+    }
+  ],
+  "passed": true,
+  "scope": "local typecheck and existing tests; no cloud or compliance certification"
+}

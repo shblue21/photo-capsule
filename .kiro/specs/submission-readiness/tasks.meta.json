@@ -1,0 +1,312 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Add Enter-key submission to the management-key login section": [
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034745402
+      },
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034753985
+      },
+      {
+        "executionId": "2ba533cd-9604-4d7c-aa3b-bd510d6199ac",
+        "chatSessionId": "sess_84182a9f-f481-43fd-81dc-f20c72a44bca",
+        "timestamp": 1791035039955
+      },
+      {
+        "executionId": "2ba533cd-9604-4d7c-aa3b-bd510d6199ac",
+        "chatSessionId": "sess_84182a9f-f481-43fd-81dc-f20c72a44bca",
+        "timestamp": 1791035112384
+      }
+    ],
+    "1.2 Fix client-side timezone label in the reveal-time display": [
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034745469
+      },
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034757195
+      },
+      {
+        "executionId": "2ba533cd-9604-4d7c-aa3b-bd510d6199ac",
+        "chatSessionId": "sess_84182a9f-f481-43fd-81dc-f20c72a44bca",
+        "timestamp": 1791035042959
+      },
+      {
+        "executionId": "2ba533cd-9604-4d7c-aa3b-bd510d6199ac",
+        "chatSessionId": "sess_84182a9f-f481-43fd-81dc-f20c72a44bca",
+        "timestamp": 1791035115971
+      }
+    ],
+    "1.3 Fix photo-count pluralization in the dashboard header": [
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034745511
+      },
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034760254
+      },
+      {
+        "executionId": "2ba533cd-9604-4d7c-aa3b-bd510d6199ac",
+        "chatSessionId": "sess_84182a9f-f481-43fd-81dc-f20c72a44bca",
+        "timestamp": 1791035046826
+      },
+      {
+        "executionId": "2ba533cd-9604-4d7c-aa3b-bd510d6199ac",
+        "chatSessionId": "sess_84182a9f-f481-43fd-81dc-f20c72a44bca",
+        "timestamp": 1791035119239
+      }
+    ],
+    "1.4 Verify host.ejs changes": [
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034745542
+      },
+      {
+        "executionId": "2ba533cd-9604-4d7c-aa3b-bd510d6199ac",
+        "chatSessionId": "sess_84182a9f-f481-43fd-81dc-f20c72a44bca",
+        "timestamp": 1791035123307
+      },
+      {
+        "executionId": "2ba533cd-9604-4d7c-aa3b-bd510d6199ac",
+        "chatSessionId": "sess_84182a9f-f481-43fd-81dc-f20c72a44bca",
+        "timestamp": 1791035154076
+      }
+    ],
+    "2.1 Fix upload-button label pluralization in `render()`": [
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034745585
+      },
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034763637
+      },
+      {
+        "executionId": "bce3521b-6d7c-4b4d-9d8c-bebba7eb0d66",
+        "chatSessionId": "sess_01b3e4a2-0f70-4c64-a953-f5025ac372ee",
+        "timestamp": 1791035286686
+      },
+      {
+        "executionId": "bce3521b-6d7c-4b4d-9d8c-bebba7eb0d66",
+        "chatSessionId": "sess_01b3e4a2-0f70-4c64-a953-f5025ac372ee",
+        "timestamp": 1791035348614
+      }
+    ],
+    "2.2 Fix upload-progress pluralization": [
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034745616
+      },
+      {
+        "executionId": "bce3521b-6d7c-4b4d-9d8c-bebba7eb0d66",
+        "chatSessionId": "sess_01b3e4a2-0f70-4c64-a953-f5025ac372ee",
+        "timestamp": 1791035352415
+      },
+      {
+        "executionId": "bce3521b-6d7c-4b4d-9d8c-bebba7eb0d66",
+        "chatSessionId": "sess_01b3e4a2-0f70-4c64-a953-f5025ac372ee",
+        "timestamp": 1791035355562
+      }
+    ],
+    "2.3 Fix upload-completion status pluralization": [
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034745643
+      },
+      {
+        "executionId": "bce3521b-6d7c-4b4d-9d8c-bebba7eb0d66",
+        "chatSessionId": "sess_01b3e4a2-0f70-4c64-a953-f5025ac372ee",
+        "timestamp": 1791035359021
+      },
+      {
+        "executionId": "bce3521b-6d7c-4b4d-9d8c-bebba7eb0d66",
+        "chatSessionId": "sess_01b3e4a2-0f70-4c64-a953-f5025ac372ee",
+        "timestamp": 1791035362156
+      }
+    ],
+    "2.4 Fix retry-button label pluralization": [
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034745671
+      },
+      {
+        "executionId": "bce3521b-6d7c-4b4d-9d8c-bebba7eb0d66",
+        "chatSessionId": "sess_01b3e4a2-0f70-4c64-a953-f5025ac372ee",
+        "timestamp": 1791035365128
+      },
+      {
+        "executionId": "bce3521b-6d7c-4b4d-9d8c-bebba7eb0d66",
+        "chatSessionId": "sess_01b3e4a2-0f70-4c64-a953-f5025ac372ee",
+        "timestamp": 1791035369031
+      }
+    ],
+    "2.5 Fix post-reveal gallery count pluralization": [
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034745711
+      },
+      {
+        "executionId": "bce3521b-6d7c-4b4d-9d8c-bebba7eb0d66",
+        "chatSessionId": "sess_01b3e4a2-0f70-4c64-a953-f5025ac372ee",
+        "timestamp": 1791035372346
+      },
+      {
+        "executionId": "bce3521b-6d7c-4b4d-9d8c-bebba7eb0d66",
+        "chatSessionId": "sess_01b3e4a2-0f70-4c64-a953-f5025ac372ee",
+        "timestamp": 1791035375605
+      }
+    ],
+    "2.6 Verify invite.ejs changes": [
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034745746
+      },
+      {
+        "executionId": "bce3521b-6d7c-4b4d-9d8c-bebba7eb0d66",
+        "chatSessionId": "sess_01b3e4a2-0f70-4c64-a953-f5025ac372ee",
+        "timestamp": 1791035378940
+      },
+      {
+        "executionId": "bce3521b-6d7c-4b4d-9d8c-bebba7eb0d66",
+        "chatSessionId": "sess_01b3e4a2-0f70-4c64-a953-f5025ac372ee",
+        "timestamp": 1791035392788
+      }
+    ],
+    "3.1 Add 320 px breakpoint to contain decorative overflow": [
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034745777
+      },
+      {
+        "executionId": "1a938ece-309c-420a-b3f7-a7db87e6765a",
+        "chatSessionId": "sess_733ccae2-f60d-4a43-93b9-85e7b199219e",
+        "timestamp": 1791035470189
+      }
+    ],
+    "3.2 Raise `.quick-button` min-height to 44 px and add min-height to `.brand`": [
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034745810
+      }
+    ],
+    "3.3 Verify style.ejs changes": [
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034745843
+      }
+    ],
+    "4. Checkpoint — source-code fixes verified before documentation": [
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034745873
+      }
+    ],
+    "5.1 Replace the overclaiming sentence in the P-IR-3 table row": [
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034745906
+      }
+    ],
+    "5.2 Verify the rationale is narrowed correctly": [
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034745937
+      }
+    ],
+    "6.1 Add a paragraph referencing the four-save IDE session logs": [
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034745981
+      }
+    ],
+    "6.2 Verify the original reference is preserved and the new paragraph is present": [
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034746016
+      }
+    ],
+    "8.1 Update the Hooks row artifact column to name both evidence groups": [
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034746139
+      }
+    ],
+    "8.2 Correct the GIF-rejection claim in evidence.md if present": [
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034746179
+      }
+    ],
+    "8.3 Verify evidence.md is accurate": [
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034746212
+      }
+    ],
+    "9.1 Correct the false `animated: false` description at line 180": [
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034746239
+      }
+    ],
+    "9.2 Verify custom-agent-review.md is accurate": [
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034746272
+      }
+    ],
+    "10. Final checkpoint — all fixes complete and verified": [
+      {
+        "executionId": "ffac7f06-43cd-413a-87e1-848fdc3ad4d7",
+        "chatSessionId": "sess_53515895-3c00-4edc-b0a3-46675974aa14",
+        "timestamp": 1791034746303
+      }
+    ],
+    "1. Fix `src/views/host.ejs` — Enter submission, timezone label, photo-count pluralization": [
+      {
+        "executionId": "2ba533cd-9604-4d7c-aa3b-bd510d6199ac",
+        "chatSessionId": "sess_84182a9f-f481-43fd-81dc-f20c72a44bca",
+        "timestamp": 1791035154153
+      }
+    ],
+    "2. Fix `src/views/invite.ejs` — five pluralization sites": [
+      {
+        "executionId": "bce3521b-6d7c-4b4d-9d8c-bebba7eb0d66",
+        "chatSessionId": "sess_01b3e4a2-0f70-4c64-a953-f5025ac372ee",
+        "timestamp": 1791035392855
+      }
+    ]
+  }
+}

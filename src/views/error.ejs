@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Photo Capsule — Error</title>
+  <style>
+    body { background: #f9fafb; color: #111827; font-family: 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif; display: flex; align-items: center; justify-content: center; min-height: 100vh; }
+    .card { background: #fff; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 6px rgba(0,0,0,.08); text-align: center; max-width: 400px; }
+    h1 { font-size: 1.25rem; margin-bottom: .75rem; color: #ef4444; }
+    p { color: #6b7280; }
+    a { display: inline-block; margin-top: 1.5rem; color: #6366f1; font-weight: 600; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>❌ <%= title %></h1>
+    <p><%= message %></p>
+    <a href="/">← Back to home</a>
+  </div>
+</body>
+</html>
